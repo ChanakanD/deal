@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "goglesheets-integrate",
+  "private_key_id": "d913e3f4f8333edbac127b7fe24d0bd2dedffa48",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDWrso8nkCqxJfW\n4t/ziiZ7rLqKLwXRdCQW5qZpq25VxPU7/4C/jncOMitERMeJHkwlk1ZZP8Cx2Btx\nEU5+9NaL2S00cvuZ7ZkoYwczQSjXZ7QTurmpdlJDi7jOsA7PXlqoz5yUB/QKZyEZ\n3FBXj6e33chnAMTzHn9r/TPC5dr03eH9kZ36dv6xCh9rdaC5C/4f/z7mDsDHqw7H\n7BpsJou5sE0uDKpLWrEX1/Pp45cB213XXbYVJpFgJY3v6WOioNEunowm7+f2hQDV\nWw/AZFtlzAecEM7NRGekqjwRMFHxJWKWC6dHHor3uFZhQq44jWejPI2WMskdd8gd\nngh5LbvpAgMBAAECggEAGaBNtcSyNXA4K8dzMjAIffTVY49PY3w4np8zuCNljUlw\neJP8O2F3JrOoZILNSrnaHxYiVY79on0IcYu+UftJ7PGkqsEa9XneMWr4vg6GIIhZ\nf41ngioEkdmI2us7KVe6/LGjoCv+3osG8X5R/NHCFHmd5WW7HMZEMZDM7/PeGiJ2\nTyJNOvdaL3FIuen4lc4aGfaFZhVnoRCrR8WvwCvuGxtIYwAokAdnpBwQZgU51x7N\nF+e89VEEnwZynVKOMMTumyVy6SDQy6y8+j9c8zx5SgYSIcg9k1AlygKt2NI4rt43\nhMcNCpfsDYHgEnzUQUVdYBWAmueChqPjJObUM/dr7QKBgQDvp130gHsGAgfbjVpe\nvIJE1ydid7zQqB6c2gmBKadxUiYeg6GnJnirwwnkhrLT4x1KiMe9Gr7KNayLiw8l\nWyR9Hw2B/dqWKQv54aCTUIMkZPyr3sq/kK0BRqqEsPntjWco9ont29+PvfMw0zpm\ndBGuL25WPIwG3rdcuCUErWEVBwKBgQDlU2Z4cnitfZSJNAy2QyJJRKJYb2gJPWp3\nWNQNViQvzgTIdZVneEPHPKoMC/5GCZ1PymLlFIUZyuqS0ASjBp9lb0hTNt56ASBj\noIAI1hAfuFjkbrDsqXko10I/uG8m3ZPu2U+6WMp2c0TAXDrILFydjouI6vmaFnzR\nmbN9PdrbjwKBgACqYFJrgOv1WXw8mkGlGF+EkXFuj7GspdkdqeUX7oUcC0sOZoaG\nTtN7SS2/SgPYn54zXwqhZmI9X+tLSZF6/VDzox/3SoIcPxJElCOUl6ikNydrCPkb\nN7/HKHYR37/PIrg0ZxGoCKjniCNcks7yB5KKQy4uIN1sBOpXAJNQv/JFAoGBAK7+\nd2FOKNxqyd/xAgpLLGywnRnS2ZbDcOzlsdsDctWv5mJ5p6qvUTlGB5Ttyfjz+UEb\n9V9Ny0ulVl71sbQdp6ClzJEDe72qAmdD4K/deaxa5ipadVQC9tu9d2ZcfSUxTGOl\nHHvcqZK93ybSumBpybrJPZ0bgaCdrF3dZeQaQVntAoGBAJl/xxaeEd1z9jSOE229\niwvY/5V6Tgdn/AOLOFF4X3q2Um7sg+vVg8LgzPiHxW2RG7xWVg40irZ5jl1CXGAu\nnJVNvVmqqIc40H2d/Ly4XMJW1Zd8S/pzSXKuReEgi2qEYBPuRLz5xqg/NqYR5XSU\nVZ3wgeaYRE058WIboKCIsScO\n-----END PRIVATE KEY-----\n",
+  "client_email": "deal-051123@goglesheets-integrate.iam.gserviceaccount.com",
+  "client_id": "113908747766063223213",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/deal-051123%40goglesheets-integrate.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
